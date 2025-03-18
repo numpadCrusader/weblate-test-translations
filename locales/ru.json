@@ -1,7 +1,7 @@
 {
-    "app_title": "",
-    "welcome_message": "",
-    "login_button": "",
-    "signup_button": "",
-    "error_message": ""
+    "app_title": "Моё приложение",
+    "welcome_message": "Добро пожаловать в наше приложение!",
+    "login_button": "Войти",
+    "signup_button": "Зарегистрироваться",
+    "error_message": "Ошибка, попробуйте позже."
 }
