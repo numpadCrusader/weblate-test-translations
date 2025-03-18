@@ -1,0 +1,7 @@
+{
+  "app_title": "My App",
+  "welcome_message": "Welcome to our app!",
+  "login_button": "Log In",
+  "signup_button": "Sign Up",
+  "error_message": "An error occurred, please try again later."
+}
