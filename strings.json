@@ -1,0 +1,15 @@
+{
+  "app_name": "My Awesome App",
+  "welcome_message": "Welcome to the app!",
+  "login_button": "Login",
+  "signup_button": "Sign Up",
+  "logout_button": "Logout",
+  "error_message": "Something went wrong, please try again.",
+  "home_screen_title": "Home",
+  "settings_screen_title": "Settings",
+  "profile_screen_title": "Profile",
+  "update_button": "Update",
+  "cancel_button": "Cancel",
+  "language": "Language",
+  "save_button": "Save"
+}
