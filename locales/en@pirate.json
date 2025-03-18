@@ -1,7 +1,7 @@
 {
-    "app_title": "",
-    "welcome_message": "",
-    "login_button": "",
-    "signup_button": "",
-    "error_message": ""
+    "app_title": "Me App",
+    "welcome_message": "Ahoy t' our app!",
+    "login_button": "Climb back on deck!",
+    "signup_button": "Join the crew!",
+    "error_message": "Arrr! A blunder be happenin', give it another go later, matey!"
 }
